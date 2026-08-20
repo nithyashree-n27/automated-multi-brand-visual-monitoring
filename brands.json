@@ -1,0 +1,22 @@
+{
+  "brands": [
+    {
+      "name": "Brand-01",
+      "homepage": "https://example.com",
+      "plp": "https://example.com/products",
+      "pdp": "https://example.com/product"
+    },
+    {
+      "name": "Brand-02",
+      "homepage": "https://example.com",
+      "plp": "https://example.com/products",
+      "pdp": "https://example.com/product"
+    },
+    {
+      "name": "Brand-03",
+      "homepage": "https://example.com",
+      "plp": "https://example.com/products",
+      "pdp": "https://example.com/product"
+    }
+  ]
+}
